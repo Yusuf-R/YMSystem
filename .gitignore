@@ -2,6 +2,13 @@
 
 # dependencies
 /node_modules
+/server/node_modules
+/server/.env
+/server/.gitignore
+/client/node_modules
+/client/.env
+.idea
+.qodo
 /.pnp
 .pnp.js
 
